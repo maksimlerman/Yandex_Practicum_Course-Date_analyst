@@ -27,13 +27,13 @@
 - Сделать кластеризацию клиентов
 
 ## Используемые библиотеки:
-- pandas
-- numpy
-- math
-- scipy
-- stats
-- sklearn
-- seaborn
+• pandas
+• numpy
+• math
+• scipy
+• stats
+• sklearn
+• seaborn
 
 ## Результат
 

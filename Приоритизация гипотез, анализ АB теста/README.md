@@ -23,13 +23,13 @@
   - Принять решение по результатам теста.
 
 ## Используемые библиотеки:
-- pandas
-- numpy
-- math
-- scipy
-- stats
-- sklearn
-- seaborn
+• pandas
+• numpy
+• math
+• scipy
+• stats
+• sklearn
+• seaborn
 
 ## Результат
 

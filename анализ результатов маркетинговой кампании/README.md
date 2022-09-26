@@ -23,12 +23,12 @@
 
 ## Используемые библиотеки:
 
-- pandas
-- numpy
-- math
-- plotly
-- matplotlib
-- seaborn
+• pandas
+• numpy
+• math
+• plotly
+• matplotlib
+• seaborn
 
 ## Вывод по результатам проведенной рекламной кампании
 
